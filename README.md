@@ -44,20 +44,6 @@ The project implements a custom weighted, undirected graph and applies multiple 
 - **Electrical Grid Consolidation:** Construct a minimum spanning tree to remove unnecessary wiring while preserving full grid connectivity.
 - **Dynamic Graph Operations:** Maintain graph structure as roads, buildings, and connections are added or removed.
 
-## Algorithmic Complexity
-The project emphasizes selecting data structures and algorithms based on their runtime requirements:
-
-| Algorithm / Operation | Complexity |
-|---|---:|
-| BFS | O(|V| + |E|) |
-| DFS | O(|V| + |E|) |
-| Dijkstra's | O(|E| log |V|) |
-| Prim's | O(|E| log |V|) |
-| Kruskal's | O(|E| log |E|) |
-| Disjoint Set `find` / `union` | Near O(1) amortized |
-| Neighborhood Count | O(1) |
-| Grid Consolidation | O(|W| log |W|) |
-
 ## Key Learning Outcomes
 - Implemented and applied fundamental graph algorithms to weighted, undirected networks.
 - Developed a deeper understanding of graph traversal, shortest-path algorithms, minimum spanning trees, and connected components.
