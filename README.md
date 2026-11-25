@@ -62,4 +62,5 @@ The project implements a custom weighted, undirected graph and applies multiple 
 
 ## Source Code
 This project was completed as part of Georgia Tech's CS 1332 Data Structures & Algorithms course. The implementation is maintained in a private repository in accordance with course academic integrity policies. This public repository contains a high-level project overview only.
+
 This project was completed as part of Georgia Tech's CS 1332 Data Structures & Algorithms course. The implementation is maintained in a private repository in accordance with course academic integrity policies. This public repository contains a high-level project overview and technical documentation only; course implementation code is not included.
