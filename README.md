@@ -53,8 +53,11 @@ The project implements a custom weighted, undirected graph and applies multiple 
 
 ## Technical Skills
 **Languages:** Java
+
 **Data Structures:** Graphs, Adjacency Lists, HashMaps, HashSets, Priority Queues, Disjoint Sets
+
 **Algorithms:** BFS, DFS, Dijkstra's, Prim's, Kruskal's, Minimum Spanning Trees, Path Reconstruction
+
 **Concepts:** Graph Traversal, Shortest Paths, Connected Components, Network Optimization, Greedy Algorithms, Time Complexity
 
 ## Source Code
